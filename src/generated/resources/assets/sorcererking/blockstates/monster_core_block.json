@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sorcererking:block/monster_core_block"
+    }
+  }
+}
